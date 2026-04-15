@@ -4,7 +4,8 @@ public class DevelopmentPage {
 
 	public void dev()
 	{
-		System.out.println("This is a developement page");
+		
+		String name="Dev";
 	}
 	
 	
