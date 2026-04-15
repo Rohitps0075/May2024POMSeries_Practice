@@ -5,7 +5,7 @@ public class HelloPage {
 	
 	public void hello()
 	{
-		System.out.println("This is a Hello Page");
+		System.out.println("This is a new Hello Page");
 	}
 	
 	
