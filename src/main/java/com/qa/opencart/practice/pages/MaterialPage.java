@@ -6,7 +6,7 @@ public class MaterialPage {
 	
 	public void cost()
 	{
-		System.out.println("cost of the all materials are above 100 and below 500");
+		System.out.println("cost of all the materials are only 150 USD");
 	}
 	
 	
